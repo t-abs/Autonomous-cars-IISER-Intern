@@ -4,7 +4,9 @@ This contains the various dataset needed for the detection in automated driving 
 The predictions of self driving cars can be carried out by YOLOv Method(YOU LOOK ONLY ONCE) Method.The key idea behind YOLO is to divide the input image into a grid and predict bounding boxes and probabilities for each grid cell.YOLO (You Only Look Once) models can be integral to the functionality of autonomous vehicles by providing real-time object detection capabilities. These models are adept at recognizing and localizing various objects in a vehicle's environment, such as pedestrians, other vehicles, traffic signs, and obstacles.
 
 Check input and output video detection from YOLOv detection-
+
 input video-https://www.loom.com/share/4285ec2e95084182b887076ada08e579?sid=937e7606-fe7a-4d43-b0c9-d66dae90b981
+
 output video-https://www.loom.com/share/ec5222739bab427287e7ae195f7fb39c?sid=194c4616-25dd-44a0-9ef4-da2aeadec704
 
 YOLOv Prediction-
