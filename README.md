@@ -22,5 +22,6 @@ YOLOv Prediction-
 
 SEAT YOLOV PREDICTION-
 Gives us a prediction on the dataset and tells us about the presence of the shadow that could be used by the Autonomous Vehicles.
+
 <img width="372" alt="Screenshot 2024-07-20 135608" src="https://github.com/user-attachments/assets/fb0a0b76-bf6b-45b8-9940-32508da4d3ec">
 
