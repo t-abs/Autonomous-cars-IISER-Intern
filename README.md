@@ -20,3 +20,7 @@ YOLOv Prediction-
 
 ![Screenshot 2024-06-03 133037](https://github.com/t-abs/Autonomous-cars-IISER-Intern/assets/137747688/48a9a5c8-8d51-4e75-bce4-331c78dbb7a4)
 
+SEAT YOLOV PREDICTION-
+Gives us a prediction on the dataset and tells us about the presence of the shadow that could be used by the Autonomous Vehicles.
+<img width="372" alt="Screenshot 2024-07-20 135608" src="https://github.com/user-attachments/assets/fb0a0b76-bf6b-45b8-9940-32508da4d3ec">
+
